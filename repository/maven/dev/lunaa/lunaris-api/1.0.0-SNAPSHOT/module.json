@@ -27,11 +27,11 @@
         {
           "name": "lunaris-api-1.0.0-SNAPSHOT.jar",
           "url": "lunaris-api-1.0.0-SNAPSHOT.jar",
-          "size": 5265,
-          "sha512": "09b76e08d9ddcb7ee448a4bb189cb4bbc2765282c93da48892031f33ed21f087c525cc3a1279683fb9770bf52174cfed7a40d754db2c05bbfbbf28195fe4acbe",
-          "sha256": "f3f11d8b6bbf13025c322cdfa86b59fd59725bc4df0c568464bd8bbdd5984406",
-          "sha1": "d6df23e78824dd0c0fd1bcf3c07ae882f06245a3",
-          "md5": "0fbf96ba9743666a46a848c9a1a57e5d"
+          "size": 4526,
+          "sha512": "91215ed91b2d8d13776f9863376f376e5c412aa6f7a36cd1405d5de6743c9c584562ca1943b4f6c19062881f12452aaa3ec1cb905d2ca70374ba91407c567fba",
+          "sha256": "4c3ddaac08c98ea66ee6d6306fb5a5e50ad085db3dd0437ff1a2e77ee54b0409",
+          "sha1": "e7466c9be5f4df3146de82683e9be8eec9aeac11",
+          "md5": "7e838cfc82003e38f29a320039155185"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "lunaris-api-1.0.0-SNAPSHOT.jar",
           "url": "lunaris-api-1.0.0-SNAPSHOT.jar",
-          "size": 5265,
-          "sha512": "09b76e08d9ddcb7ee448a4bb189cb4bbc2765282c93da48892031f33ed21f087c525cc3a1279683fb9770bf52174cfed7a40d754db2c05bbfbbf28195fe4acbe",
-          "sha256": "f3f11d8b6bbf13025c322cdfa86b59fd59725bc4df0c568464bd8bbdd5984406",
-          "sha1": "d6df23e78824dd0c0fd1bcf3c07ae882f06245a3",
-          "md5": "0fbf96ba9743666a46a848c9a1a57e5d"
+          "size": 4526,
+          "sha512": "91215ed91b2d8d13776f9863376f376e5c412aa6f7a36cd1405d5de6743c9c584562ca1943b4f6c19062881f12452aaa3ec1cb905d2ca70374ba91407c567fba",
+          "sha256": "4c3ddaac08c98ea66ee6d6306fb5a5e50ad085db3dd0437ff1a2e77ee54b0409",
+          "sha1": "e7466c9be5f4df3146de82683e9be8eec9aeac11",
+          "md5": "7e838cfc82003e38f29a320039155185"
         }
       ]
     },
@@ -68,11 +68,11 @@
         {
           "name": "lunaris-api-1.0.0-SNAPSHOT-sources.jar",
           "url": "lunaris-api-1.0.0-SNAPSHOT-sources.jar",
-          "size": 4622,
-          "sha512": "9b3803a1a560daef3dc112050cacafec306611513df8d01a7c6e3c5a87672be7d8be67eb5d89f6ba775c1f70353f821d73dd469fb8ad1a45f96afa0ee35e0338",
-          "sha256": "d3470744bbe5107eee990b9e23a1e77efe2799c37edbabaacd298a74c624bf21",
-          "sha1": "81ca8e2f6f3b4f84249dc4caba4679e01f4cf818",
-          "md5": "a18bc1d43d08afd6e5ef33e7670d4b32"
+          "size": 4041,
+          "sha512": "f4c2f9f2872a3fc39ea31a759e8844ebed83a38602278cbcffddd083b29ddaafe3eee2e515896337c89ec9a486eb4b48a0e2384e04f7c098d5c9aa3be0123646",
+          "sha256": "9e5d7833958ec915a64e724be7997202e7da22b64b0e1ab4c30ae07c0d23ec1b",
+          "sha1": "155265bc098dcade093997fec3ae8ebab9b920a0",
+          "md5": "8f8c0830e9d0f182590329d40291ebd2"
         }
       ]
     },
@@ -89,10 +89,10 @@
           "name": "lunaris-api-1.0.0-SNAPSHOT-javadoc.jar",
           "url": "lunaris-api-1.0.0-SNAPSHOT-javadoc.jar",
           "size": 103692,
-          "sha512": "2794cfb89c1c2cc053ad8f50123f16d2b74cf5206eafbbcdaab51d8d56efbc3d8d6e5df90b00cfc2e098550463f262cc51fcdc4a073bf229f9d5784c2009c069",
-          "sha256": "ef36c762085b81fd67008e51f75c0a1d734271b7b597a06e4e7e14bbd6224e4d",
-          "sha1": "c4dedc290a01a1859b1299486ea158c3ccf375c0",
-          "md5": "cb44d1a8e374001ed228eb11ff44c93f"
+          "sha512": "dec38f81d232f9e43326d2adafc4a334d620aa92dd95f98aee266fcd47b599e94a32d8ec82974411f7cdd9ab14101e6c4c356c18984a6f3140630bfefe44db1e",
+          "sha256": "3319804bd1b7675d6ff042f1c4f4f6b51b7144554bf92a181bb4fef33481ebe4",
+          "sha1": "e6b592655d208443df393e02721c4f5eff8381a7",
+          "md5": "9ce4cebd9bdf5059739698f249bc0bb3"
         }
       ]
     }

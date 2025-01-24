@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"de.lunaa.lunaris"},{"l":"de.lunaa.lunaris.test"}];updateSearchResults();
